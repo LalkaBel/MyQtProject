@@ -14,8 +14,12 @@ QString Widget::factorial(const qulonglong& n)
 /*GDFHGFH DGRTHGFDDDDDDDDDDDDDDDDDDDDDDD
  * DFFFDDDFGHHHHHHHHHHH
  * DFGGHHHHHHHHHHHHHHHHHHHH
- * FFFFFFFFFFFFFFFFFFFFGH
- * DDDDDDDDDDDDDDDDDDD
+ * tttttttttttttttttttttttttttttttt
+ * ttttttttttttttttttttttttttttt
+ * rrrrrrrtyuytuuuuuuuuuuuuu
+ * dgfhhhhhhhhhhhh
+ * xfhhhhhhhhhh
+ * vnjvbmjh
  * */
 
 
