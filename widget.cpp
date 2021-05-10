@@ -10,6 +10,7 @@ Widget::Widget(QObject* pobj) : QObject(pobj)
 QString Widget::factorial(const qulonglong& n)
 {
     return (n==2) ? "yes" : "no";
+    //n=6+7;
 
 }
 
